@@ -1,4 +1,7 @@
-#Create App: 
+# Watchflix
+
+
+Create App: 
 Create app using npx create-react-app watchflix command
 
 #Writing Scripts: 
