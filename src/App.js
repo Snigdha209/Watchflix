@@ -99,7 +99,8 @@ const App = () => {
 								movies={movies}
 								handleFavouritesClick={addFavouriteMovie}
 								favouriteComp={AddFavourites} />
-						</div><div className='row align-items-center mt-1 mb-1'>
+						</div>
+            <div className='row align-items-center mt-1 mb-1'>
 							<MovieListHeading heading='Favourites' />
 						</div><div className='row'>
 							<MovieList
