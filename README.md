@@ -13,6 +13,8 @@ Type username , email, password(admin@admin.com., admin123)
 
 
 ![image](https://user-images.githubusercontent.com/101920068/173243417-317a42da-a441-4538-9e56-0e2d9aa803bd.png)
+
+
 User will be taken to the main page where user can search for movies , displayed in Movies section and them to favourites list.
 
 App deployed on Heroku - https://watchflix-movie.herokuapp.com/
